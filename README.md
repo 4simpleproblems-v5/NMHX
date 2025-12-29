@@ -1,0 +1,1 @@
+Noise Map Hash Extension (NMHX) is an extension of the SHA512 cryptographic function, where a 3D or 2D noise Map is generated based off of the user's current time via local device time, converting that time into a SHA512 hash, then processing a 2 dimensional noise map for older hardware, and a 3 dimensional noise map for newer hardware and processing systems.
